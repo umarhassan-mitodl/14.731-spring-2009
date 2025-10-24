@@ -91,9 +91,9 @@ Institutions
 8
 {{< tdclose >}}{{< tdopen >}}
 
-Engerman, Stanley L., and Kenneth L. Sokoloff. "{{% resource_link "69fb24d9-2919-473a-8263-857777dfaf94" "Factor Endowments: Institutions, and Differential Growth Paths Among New World Economies: A View from Economic Historians of the United States" %}}." National Bureau of Economic Research Historical Working Paper No. 66, December 1994.
+Engerman, Stanley L., and Kenneth L. Sokoloff. "[Factor Endowments: Institutions, and Differential Growth Paths Among New World Economies: A View from Economic Historians of the United States](http://www.nber.org/papers/h0066)." National Bureau of Economic Research Historical Working Paper No. 66, December 1994.
 
-Acemoglu, Daron, Simon Johnson, and James Robinson. "{{% resource_link "fe2b60a1-711c-4e25-a11e-53e74bed0279" "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution" %}}." *Quarterly Journal of Economics* 117, no. 4 (2002): 1231-1294.
+Acemoglu, Daron, Simon Johnson, and James Robinson. "[Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://academic.oup.com/qje/article/117/4/1231/1875948)." *Quarterly Journal of Economics* 117, no. 4 (2002): 1231-1294.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -123,7 +123,7 @@ Land institutions
 
 Moser, Petra. "How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World's Fairs." *American Economic Review* 95 (September 2005): 1214-1236.
 
-Moser, Petra. "{{% resource_link "aaf74660-bb1e-46a7-8682-16b195c0e15c" "Why Don't Inventors Patent" %}}?" National Bureau of Economic Research Working Paper No. 13294, August 2007.
+Moser, Petra. "[Why Don't Inventors Patent](http://www.nber.org/papers/w13294)?" National Bureau of Economic Research Working Paper No. 13294, August 2007.
 
 {{< tdclose >}}{{< tdopen >}}
 Technology institutions
@@ -149,7 +149,7 @@ Student presentations 1
 14
 {{< tdclose >}}{{< tdopen >}}
 
-Greenstone, Michael, Paul Oyer, and Annette Vissing-Jorgensen. "{{% resource_link "d6b54c6a-a28f-4489-9305-34b4d8082783" "Mandated Disclosure, Stock Returns, and the 1964 Securities Act" %}}." *Quarterly Journal of Economics* 121, no. 2 (May 2006): 399-460.
+Greenstone, Michael, Paul Oyer, and Annette Vissing-Jorgensen. "[Mandated Disclosure, Stock Returns, and the 1964 Securities Act](https://academic.oup.com/qje/article/121/2/399/1883998)." *Quarterly Journal of Economics* 121, no. 2 (May 2006): 399-460.
 
 Benston, George. "Required Disclosure and the Stock Market: An Evaluation of the Securities Exchange Act of 1934." *American Economic Review* 63 (March 1973): 132-155.
 
@@ -173,7 +173,7 @@ Financial crises
 
 Acemolgu, D., D. Autor, and D. Lyle. "Women, War, and Wages: The Effect of Female Labor Supply on the Wage Structure at Midcentury." *Journal of Political Economy* 112, no. 3 (June 2004): 497-551.
 
-Angrist, J. "{{% resource_link "7ff79a56-ea1f-4779-9a69-36eccb6d98a9" "How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America's Second Generation" %}}." *Quarterly Journal of Economics* 117, no. 3 (August 2002): 997-1038.
+Angrist, J. "[How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America's Second Generation](https://academic.oup.com/qje/article/117/3/997/1933067)." *Quarterly Journal of Economics* 117, no. 3 (August 2002): 997-1038.
 
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 Labor topics
@@ -191,11 +191,11 @@ Angrist, J. "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from 
 
 Carrington, William J. "The Alaskan Labor Market during the Pipeline Era." *Journal of Political Economy* 104, no. 1 (1996): 186-218.
 
-Margo, Robert A. "{{% resource_link "c58db98c-a709-41ef-8b40-cc0b22e78575" "Wages in California during the Gold Rush" %}}." National Bureau of Economic Research Historical Working Paper No. 101, June 1997.
+Margo, Robert A. "[Wages in California during the Gold Rush](http://www.nber.org/papers/h0101)." National Bureau of Economic Research Historical Working Paper No. 101, June 1997.
 
-Boustan, Leah. "Competition in the Promised Land: Black Migration and Racial Wage Convergence in the North, 1940-1970." *Journal of Economic History,* forthcoming. Also available as {{% resource_link "862a26d6-db38-46ff-8cbf-2a284ff8aabe" "National Bureau of Economic Research Working Paper No. 13813" %}}.
+Boustan, Leah. "Competition in the Promised Land: Black Migration and Racial Wage Convergence in the North, 1940-1970." *Journal of Economic History,* forthcoming. Also available as [National Bureau of Economic Research Working Paper No. 13813](http://www.nber.org/papers/w13813).
 
-Ferrie, Joseph P. "History Lessons: The End of American Exceptionalism? Mobility in the United States since 1850." *Journal of Economic Perspectives* 19, no. 3 (Summer 2005): 199-215. Also available as {{% resource_link "e1d3b3bf-04e9-4219-99b2-28a2eedb307c" "National Bureau of Economic Research Working Paper No. 11324" %}}.
+Ferrie, Joseph P. "History Lessons: The End of American Exceptionalism? Mobility in the United States since 1850." *Journal of Economic Perspectives* 19, no. 3 (Summer 2005): 199-215. Also available as [National Bureau of Economic Research Working Paper No. 11324](http://www.nber.org/papers/w11324).
 
 ### Skim
 
@@ -207,7 +207,7 @@ Migration
 19
 {{< tdclose >}}{{< tdopen >}}
 
-Davis, Donald R., and David E. Weinstein. "{{% resource_link "0e2b71fe-550e-4337-9e5e-34a1a86c4845" "Bones, Bombs, and Break Points: The Geography of Economic Activity" %}}." *American Economic Review* 92, no. 5 (2002): 1269-1289. ({{% resource_link "b24269e0-0217-465d-ac13-c5eb05ba98df" "PDF" %}})
+Davis, Donald R., and David E. Weinstein. "[Bones, Bombs, and Break Points: The Geography of Economic Activity](http://ideas.repec.org/p/nbr/nberwo/8517.html)." *American Economic Review* 92, no. 5 (2002): 1269-1289. ([PDF](http://www.columbia.edu/~drd28/BBB.pdf))
 
 Hornbeck, Richard. "Quantifying Long-term Adjustment to Environmental Change: Evidence from the American Dust Bowl." Mimeograph, Massachusetts Institute of Technology, 2008.
 
@@ -237,7 +237,7 @@ Acemoglu, Daron, and Joshua Angrist. "Consequences of Employment Protection? The
 
 Heckman, James J. "Determining the Impact of Federal Antidiscrimination Policy on the Economic Status of Blacks: A Study of South Carolina." *American Economic Review* 79 (March 1989): 138-177.
 
-Donohue, John J., and James J. Heckman. "{{% resource_link "e45b3f27-0db7-422b-a39d-8e3985504395" "Continuous Versus Episodic Change: The Impact of Civil Rights Policy on the Economic Status of Blacks" %}}." *Journal of Economic Literature* 29, no. 4 (1991): 1603-1643.
+Donohue, John J., and James J. Heckman. "[Continuous Versus Episodic Change: The Impact of Civil Rights Policy on the Economic Status of Blacks](http://ideas.repec.org/p/nbr/nberwo/3894.html)." *Journal of Economic Literature* 29, no. 4 (1991): 1603-1643.
 
 {{< tdclose >}}{{< tdopen >}}
 Discrimination
@@ -271,7 +271,7 @@ Intergenerational mobility
 
 Almond, Douglas. "Is the 1918 Influenza Pandemic Over? Long-term Effects of In Utero Influenza Exposure in the Post-1940 U.S. Population." *Journal of Political Economy* 114, no. 4 (August 2006): 672-712.
 
-Bleakley, Hoyt. "{{% resource_link "72351f15-0371-4b47-820f-b0e2739dd5cb" "Disease and Development: Evidence from Hookworm Eradication in the American South." %}}" *Quarterly Journal of Economics* 122, no. 1 (February 2007): 73-117.
+Bleakley, Hoyt. "[Disease and Development: Evidence from Hookworm Eradication in the American South.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800113/)" *Quarterly Journal of Economics* 122, no. 1 (February 2007): 73-117.
 
 Cutler, David, and Grant Miller. "Water, Water Everywhere: Municipal Finance and Water Supply in American Cities." Chapter 5 in *Corruption and Reform: Lessons from America's Economic History*. Edited by Edward L. Glaeser and Claudia Goldin. Chicago, IL: University of Chicago Press, 2008, pp. 153-86. ISBN: 9780226299587.
 
